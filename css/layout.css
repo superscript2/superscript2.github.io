@@ -1,0 +1,45 @@
+@import url('normalize.css');
+
+/* ----------------------------------- */
+@font-face {
+	font-family: 'Styrene';
+	font-style: normal;
+	font-weight: 400;
+    src: url('../fonts/StyreneA-Bold.otf');
+}
+
+
+body {
+	margin: 3rem auto;
+	max-width: 80%;
+	font-family: sans-serif;
+	font-size: 1.5rem;
+	line-height: 1.5;
+}
+
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+
+
+h1 {
+	margin: 4rem 0 1rem 0;
+	padding: 1rem 0;
+
+	border-top: 4px solid;
+}
+
+
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Styrene', sans-serif;
+	 font-weight: normal; 
+}
+
+
+figcaption {
+	font-size: 0.75rem;
+}

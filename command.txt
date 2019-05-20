@@ -1,0 +1,1 @@
+pandoc -s codex1980.md -c css/layout.css -o export.html
